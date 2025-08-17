@@ -12,7 +12,7 @@ namespace ConsoleApplication
         {
             char choice;
 
-            // Keep The Loop Running Until The Choice Is y/Y
+        
             do
             {
 
